@@ -13,6 +13,6 @@ This assignment is designed to be completed in week 4 of EECS 16ML. We assumed t
 The notebook **Polynomial regression assignment.ipynb** in the **Assignment** folder is the coding assignment. In the same folder, you can find the data files you need to run the assignment codes. Please download them along with **Polynomial regression assignment.ipynb** but you won't need to make any modifications to them. **Assignment instructions.pdf** in the same folder contains background information regarding the assignment and the data sets that you may find useful. The solution to this assignment can be found in the **Solution** folder. 
 
 In the root folder, you can find the following supplementary files:
-**Teaching notes: polynomial regression** provides conceptual explanation on the key concepts covered in this assignment. Students can reinforce their understanding of relavant topics by reading through this file.
-**Slide deck: polynomial regression** serves as teaching slides for a potential lecture on learning non-linear boundaries using polynomial regression 
+**Teaching notes: polynomial regression** provides conceptual explanation on the key concepts covered in this assignment as well as a conprehensive list of quiz questions testing students' knowledge. Students can reinforce their understanding of relavant topics by reading through this file.
+**Slide deck: polynomial regression** serves as teaching slides for a potential lecture on learning non-linear boundaries using polynomial regression. It includes the key points made in the teaching note as well as a subset of the quiz questions.
 

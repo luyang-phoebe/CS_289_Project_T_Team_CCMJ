@@ -16,3 +16,5 @@ In the root folder, you can also find the following supplementary files:
 **Teaching notes-polynomial regression.pdf** provides conceptual explanations on the key concepts covered in this assignment as well as a conprehensive list of quiz questions testing students' knowledge. Students can reinforce their understanding of relavant topics by reading through this file.
 **Slide deck-polynomial regression.pdf** serves as teaching slides for a potential lecture on learning non-linear boundaries using polynomial regression. It includes the key points made in the teaching note as well as a subset of the quiz questions.
 
+Note: *_v2 versions of the aforementioned files are the updated version after the first code review. (For example, Polynomial regression assignment_v2.ipynb is the revised version)
+
